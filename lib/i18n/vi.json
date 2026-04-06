@@ -1,0 +1,89 @@
+{
+  "onboarding": {
+    "title": "Nhập thông tin của bạn",
+    "fullName": "Họ và tên",
+    "dateOfBirth": "Ngày sinh",
+    "timeOfBirth": "Giờ sinh",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "analyze": "Phân tích",
+    "placeholder": "Nhập vào đây",
+    "errorRequired": "Trường này là bắt buộc",
+    "errorInvalidDate": "Ngày không hợp lệ"
+  },
+  "home": {
+    "title": "Bạn muốn xem gì?",
+    "wholeLife": "Toàn bộ cuộc đời",
+    "daily": "Dự báo hôm nay",
+    "specific": "Phân tích chuyên sâu",
+    "overview": "Tổng quan",
+    "love": "Tình duyên",
+    "career": "Sự nghiệp",
+    "health": "Sức khỏe",
+    "finance": "Tài chính",
+    "family": "Gia đình",
+    "others": "Lĩnh vực khác..."
+  },
+  "result": {
+    "overviewTitle": "Kết quả tổng quan",
+    "dailyTitle": "Dự báo hôm nay",
+    "loveTitle": "Phân tích Tình duyên",
+    "careerTitle": "Phân tích Sự nghiệp",
+    "healthTitle": "Phân tích Sức khỏe",
+    "financeTitle": "Phân tích Tài chính",
+    "familyTitle": "Phân tích Gia đình",
+    "otherTitle": "Phân tích Lĩnh vực khác",
+    "loading": "Đang giải mã vận mệnh...",
+    "astrology": "Tử Vi",
+    "numerology": "Thần Số",
+    "iching": "Kinh Dịch",
+    "edit": "Sửa",
+    "save": "Lưu kết quả",
+    "share": "Chia sẻ",
+    "lifePalace": "Cung Mệnh và Ngũ Hành",
+    "keyStars": "Chính Tinh nổi bật",
+    "element": "Ngũ Hành",
+    "lifePalaceLabel": "Cung Mệnh",
+    "bodyPalaceLabel": "Cung Thân",
+    "birthHour": "Giờ Sinh"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "theme": "Giao diện",
+    "light": "Sáng",
+    "dark": "Tối",
+    "system": "Hệ thống",
+    "notifications": "Thông báo",
+    "on": "Bật",
+    "off": "Tắt",
+    "help": "Trợ giúp & Hướng dẫn",
+    "privacy": "Chính sách bảo mật"
+  },
+  "common": {
+    "back": "Quay lại",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "close": "Đóng",
+    "error": "Có lỗi xảy ra",
+    "retry": "Thử lại"
+  },
+  "palaces": {
+    "love": "Cung Tình Duyên",
+    "career": "Cung Sự Nghiệp",
+    "health": "Cung Sức Khỏe",
+    "finance": "Cung Tài Chính",
+    "family": "Cung Gia Đình"
+  },
+  "numerology": {
+    "mainNumber": "Con Số Chủ Đạo",
+    "dayNumber": "Con Số Ngày Sinh",
+    "lifePath": "Con Số Đường Đời",
+    "mission": "Con Số Sứ Mệnh",
+    "soulNumber": "Con Số Linh Hồn",
+    "calculation": "Cách Tính",
+    "meaning": "Ý Nghĩa",
+    "lifeCycles": "Chu Kỳ Sống"
+  }
+}

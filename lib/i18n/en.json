@@ -1,0 +1,89 @@
+{
+  "onboarding": {
+    "title": "Enter Your Info",
+    "fullName": "Full Name",
+    "dateOfBirth": "Date of Birth",
+    "timeOfBirth": "Time of Birth",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "analyze": "Analyze",
+    "placeholder": "Placeholder",
+    "errorRequired": "This field is required",
+    "errorInvalidDate": "Invalid date"
+  },
+  "home": {
+    "title": "What would you like to view?",
+    "wholeLife": "Whole Life Overview",
+    "daily": "Daily Forecast",
+    "specific": "Specific Aspect Analysis",
+    "overview": "Overview",
+    "love": "Love Life",
+    "career": "Career",
+    "health": "Health",
+    "finance": "Finance",
+    "family": "Family",
+    "others": "Others..."
+  },
+  "result": {
+    "overviewTitle": "Overview Results",
+    "dailyTitle": "Daily Forecast",
+    "loveTitle": "Love Life Analysis",
+    "careerTitle": "Career Analysis",
+    "healthTitle": "Health Analysis",
+    "financeTitle": "Finance Analysis",
+    "familyTitle": "Family Analysis",
+    "otherTitle": "Other Analysis",
+    "loading": "Decoding your destiny...",
+    "astrology": "Astrology",
+    "numerology": "Numerology",
+    "iching": "I Ching",
+    "edit": "Edit",
+    "save": "Save Results",
+    "share": "Share",
+    "lifePalace": "Life Palace and Five Elements",
+    "keyStars": "Key Stars",
+    "element": "Element",
+    "lifePalaceLabel": "Life Palace",
+    "bodyPalaceLabel": "Body Palace",
+    "birthHour": "Birth Hour"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "notifications": "Notifications",
+    "on": "On",
+    "off": "Off",
+    "help": "Help & User Guide",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "error": "An error occurred",
+    "retry": "Retry"
+  },
+  "palaces": {
+    "love": "Love Palace",
+    "career": "Career Palace",
+    "health": "Health Palace",
+    "finance": "Finance Palace",
+    "family": "Family Palace"
+  },
+  "numerology": {
+    "mainNumber": "Main Number",
+    "dayNumber": "Day Number",
+    "lifePath": "Life Path Number",
+    "mission": "Mission Number",
+    "soulNumber": "Soul Number",
+    "calculation": "Calculation",
+    "meaning": "Meaning",
+    "lifeCycles": "Life Cycles"
+  }
+}
